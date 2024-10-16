@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Restaurant Review</string>
+    <string name="event_image">Event Image</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="open_link">Open Link</string>
+    <string name="event_quota">Registrants: %1$d / Quota: %2$d / Remaining: %3$d</string>
+    <string name="title_home">Home</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="finished_events">Finished Events</string>
+    <string name="search_upcoming_events">Search upcoming events</string>
+    <string name="search_finished_events">Search finished events</string>
+    <string name="favorite">Favorite</string>
+    <string name="no_favorite_events">No Favorite Event</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="settings">Settings</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="title_settings">Settings</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="notifications_permission_granted">Notifications permission granted</string>
+    <string name="notifications_permission_rejected">Notifications permission rejected</string>
+</resources>
